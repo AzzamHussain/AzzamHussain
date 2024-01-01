@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AzzamHussain)](https://git.io/streak-stats)### Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AzzamHussain&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **AzzamHussain/AzzamHussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
