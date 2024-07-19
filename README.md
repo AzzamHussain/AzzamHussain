@@ -1,3 +1,5 @@
+
+
 <h2> Hi There
     <img src="https://github.com/codewithowais/codewithowais/blob/master/wave.gif" 
          alt="Waving hand animated gif"
@@ -8,35 +10,37 @@
 <div>
  <img src="https://github.com/codewithowais/codewithowais/blob/master/coding.gif" width="60%"  loop=infinite></div>  
 
+ 
+ 
+ 
+ 
  Reach out to me directly through:
 
 <a href="(https://www.linkedin.com/in/azzam-hussain-8b0426247/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-
 <a href="https://wa.me/923323760893/" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-
-
-
-
-
-
 <a href="mailto:azzamhussain70@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+
+
+
+
 
 Technologies I am using:
 
 <div>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" />
 <div>
 
 
