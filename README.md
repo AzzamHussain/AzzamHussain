@@ -16,7 +16,7 @@
  
  Reach out to me directly through:
 
-<a href="(https://www.linkedin.com/in/azzam-hussain-8b0426247/)" target="_blank">
+<a href="https://www.linkedin.com/in/azzam-hussain-8b0426247/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://wa.me/923323760893/" target="_blank">
