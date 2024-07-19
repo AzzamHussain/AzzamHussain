@@ -7,6 +7,28 @@
 </h3>
 <div>
  <img src="https://github.com/codewithowais/codewithowais/blob/master/coding.gif" width="60%"  loop=infinite></div>  
+
+ Reach out to me directly through:
+
+<a href="(https://www.linkedin.com/in/azzam-hussain-8b0426247/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
+<a href="https://wa.me/923323760893/" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+
+
+
+
+
+<a href="mailto:azzamhussain70@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AzzamHussain&theme=dark)](https://git.io/streak-stats)         
 
 
