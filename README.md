@@ -43,12 +43,7 @@ Technologies I am using:
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <div>
 
-Views & Followers:
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AzzamHussain">
-</a>
-<a href="https://github.com/AzzamHussain?tab=followers"><img src="https://img.shields.io/github/followers/codewithowais?label=Followers&style=social" alt="GitHub Badge"></a> 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AzzamHussain&theme=dark)](https://git.io/streak-stats)         
